@@ -40,7 +40,6 @@ hs_err_pid*
 *.launch
 .settings/
 *.sublime-workspace
-/target
 
 # IDE - VSCode
 .vscode/*
